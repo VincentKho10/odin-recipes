@@ -1,0 +1,35 @@
+.desc{
+    background-color: hsl(150, 100%, 64%);
+    height: auto;
+    width: auto;
+}
+
+.desc p {
+    text-wrap: pretty;
+    display: block;
+    width: 700px;
+}   
+
+.desc #graphics{
+    display: inline-block;
+    margin: 20px;
+}
+
+.desc #text {
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.ingridients{
+    background-color: hsl(170, 100%, 64%);
+}
+
+.steps{
+    background-color: hsl(197, 100%, 64%);
+}
+
+body{
+    background-color: hsl(120, 100%, 89%);
+    font-family: 'Courier New', Courier, monospace;
+}
